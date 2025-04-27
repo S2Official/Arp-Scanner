@@ -35,7 +35,7 @@ With a graphical interface built using `tkinter`, this tool allows users to scan
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/arp-scanner.git
+git clone https://github.com/S2Official/Arp-Scanner.git
 cd arp-scanner
 
 # Install required dependencies (for Linux/Unix)
